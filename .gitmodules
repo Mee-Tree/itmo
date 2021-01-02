@@ -4,3 +4,6 @@
 [submodule "paradigms"]
 	path = paradigms
 	url = https://github.com/Mee-Tree/paradigms.git
+[submodule "cpp/randomized_queue"]
+	path = cpp/randomized_queue
+	url = https://github.com/Mee-Tree/randomized-queue.git
