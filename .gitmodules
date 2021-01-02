@@ -7,3 +7,21 @@
 [submodule "cpp/randomized_queue"]
 	path = cpp/randomized_queue
 	url = https://github.com/Mee-Tree/randomized-queue.git
+[submodule "cpp/monte-carlo-genetic-drift"]
+	path = cpp/monte-carlo-genetic-drift
+	url = https://github.com/Mee-Tree/monte-carlo-genetic-drift.git
+[submodule "cpp/calc-trig"]
+	path = cpp/calc-trig
+	url = https://github.com/Mee-Tree/calc-trig.git
+[submodule "cpp/boe-trade-capture-report"]
+	path = cpp/boe-trade-capture-report
+	url = https://github.com/Mee-Tree/boe-trade-capture-report.git
+[submodule "cpp/sort-k-t"]
+	path = cpp/sort-k-t
+	url = https://github.com/Mee-Tree/sort-k-t.git
+[submodule "cpp/seam-carving"]
+	path = cpp/seam-carving
+	url = https://github.com/Mee-Tree/seam-carving.git
+[submodule "cpp/2d-tree"]
+	path = cpp/2d-tree
+	url = https://github.com/Mee-Tree/2d-tree.git
