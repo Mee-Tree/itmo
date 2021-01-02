@@ -1,0 +1,10 @@
+# *ADS labs*
+* [1-1 Sort, heap, binary search](sort-heap-binary-search)
+* [1-2 Stack, Queue, DSU](stack-queue-dsu)
+* [1-3 Dynamic programming](dynamic-programming)
+* [2-1 Segment tree](segment-tree)
+* [2-2 Search tree](search-tree)
+* [2-3 Tree requests](tree-requests)
+* [3-1 DFS, MST](dfs-mst)
+* [3-2 Shortest path. Games](shortest-path-games)
+* [3-3 Algorithms on strings](strings)
