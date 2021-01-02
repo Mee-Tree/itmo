@@ -1,0 +1,6 @@
+DISKPART> 
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+  Disk 0    Online          238 GB  1024 KB        *
+
+DISKPART> 
