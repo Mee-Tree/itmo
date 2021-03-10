@@ -1,0 +1,20 @@
+main .user-box {
+    display: flow-root;
+    position: relative;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 0.5rem;
+}
+
+main .user-box .name a {
+    font-size: 1.6rem;
+    margin-left: 0.5rem;
+    text-decoration: none;
+    color: var(--caption-color);
+    font-weight: bold;
+}
+
+main .user-box img {
+    float: right;
+    height: 7rem;
+}

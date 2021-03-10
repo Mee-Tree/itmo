@@ -1,0 +1,50 @@
+/* comment */
+.comment table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.comment .left {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.comment .right {
+    display: flow-root;
+}
+
+.comment .right .creationTime {
+    font-size: 0.75rem;
+    color: #888;
+    float: top;
+    margin-bottom: 0.5rem;
+}
+
+.comment .right .text {
+    word-break: break-word;
+}
+
+.comment .right textarea {
+    width: 100%;
+    height: 6rem;
+    resize: vertical;
+}
+
+.comment .right input {
+    float: right;
+}
+
+.comment .error {
+    color: var(--error-color);
+    font-size: 0.75rem;
+}
+
+.comment td {
+    padding: 0.5em;
+}
+
+.comment td:first-child {
+    width: 6rem;
+    border-right: 1px solid var(--border-color);
+}

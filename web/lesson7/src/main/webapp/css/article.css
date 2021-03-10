@@ -1,0 +1,71 @@
+main article {
+    margin-bottom: 2em;
+}
+
+main article .title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: var(--caption-color);
+}
+
+main article .information {
+    color: var(--border-color);
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
+}
+
+main article .body {
+    display: flow-root;
+    font-family: sans-serif;
+    border-left: 4px solid var(--border-color);
+    margin-top: 1rem;
+    padding-left: 1rem;
+    white-space: pre-line;
+    word-wrap: break-word;
+}
+
+main article .attachment {
+    margin: 0;
+    padding: 0;
+}
+
+main article .attachment li {
+    background: url(../img/paperclip-16x16.png) no-repeat;
+    padding: 0 20px;
+    line-height: 16px;
+    margin: 0.25rem auto;
+    color: var(--border-color);
+    font-size: 0.75rem;
+}
+
+main article .footer {
+    display: flex;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    padding: 0.3rem 0.5rem;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+main article .footer .left {
+    display: flex;
+    align-items: center;
+}
+
+main article .footer .positive-score {
+    color: green;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: auto 0.3em;
+}
+
+main article .footer .right {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
+
+main article .footer .right img {
+    margin-left: 0.8em;
+    margin-right: 0.4em;
+}
